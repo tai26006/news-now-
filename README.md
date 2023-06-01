@@ -14,11 +14,13 @@
     Uma das maiores cantoras e compositoras da história do Brasil, ela morreu nesta segunda (8). Rita foi diagnosticada com câncer de pulmão em 2021 e vinha fazendo tratamentos contra doença.</p>
 
   <img src="ritaa.jpg" alt="" srcset class="">
-
+  
+  <body>
+<h1><h1
+>
 </body> 
 <p> Rita ajudou a incorporar a revolução do rock à explosão criativa do tropicalismo, formou a banda brasileira de rock mais cultuada no mundo, os Mutantes, e criou canções na carreira solo com enorme apelo popular sem perder a liberdade e a irreverência.
 Sempre moderna, Rita foi referência de criatividade e independência feminina durante os quase 60 anos de carreira. O título de “rainha do rock brasileiro” veio quase naturalmente, mas ela achava “cafona” - preferia “padroeira da liberdade”.
-
   Rita Lee Jones nasceu em São Paulo, em 31 de dezembro de 1947. O pai, Charles Jones, era dentista e filho de imigrantes dos EUA. A mãe, a italiana Romilda Padula, era pianista, e incentivou a filha a estudar o instrumento e a cantar com as irmãs. 
 Aos 16 anos, Rita integrou um trio vocal feminino, as Teenage Singers, e fez apresentações amadoras em festas de escolas. O cantor e produtor Tony Campello descobriu as cantoras e as chamou para participar de gravações como backing vocals.
 

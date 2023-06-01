@@ -11,19 +11,23 @@
   <h1>MORRE AOS 75 ANOS CANTORA RITA LEE</h1>  
   
   <p>
-    Uma das maiores cantoras e compositoras da história do Brasil, morre nesta segunda (8). Rita foi diagnosticada com câncer de pulmão em 2021 e vinha fazendo tratamentos contra doença
-  </p>
+    Uma das maiores cantoras e compositoras da história do Brasil, ela morreu nesta segunda (8). Rita foi diagnosticada com câncer de pulmão em 2021 e vinha fazendo tratamentos contra doença.</p>
 
   <img src="ritaa.jpg" alt="" srcset class="">
 
 </body> 
-<p>Rita Lee, uma das maiores cantoras e compositoras da história da música brasileira, morreu nesta segunda-feira (8), aos 75 anos. Ela foi diagnosticada com câncer de pulmão em 2021 e vinha fazendo tratamentos contra a doença.
+<p> Rita ajudou a incorporar a revolução do rock à explosão criativa do tropicalismo, formou a banda brasileira de rock mais cultuada no mundo, os Mutantes, e criou canções na carreira solo com enorme apelo popular sem perder a liberdade e a irreverência.
+Sempre moderna, Rita foi referência de criatividade e independência feminina durante os quase 60 anos de carreira. O título de “rainha do rock brasileiro” veio quase naturalmente, mas ela achava “cafona” - preferia “padroeira da liberdade”.
 
-    Rita Lee foi diagnosticada com câncer de pulmão em 2021, conforme anunciou em maio daquele ano. O diagnóstico ocorreu durante exames de rotina, e o tratamento realizado combinou imunoterapia e radioterapia. Cerca de um ano depois, em abril de 2022, a família da cantora anunciou a remissão do câncer – “diminuição ou desaparecimento de sinais ou sintomas de um câncer, comumente após a realização do tratamento proposto”, segundo o glossário Controle de Câncer, do Ministério da Saúde. 
-    No ano passado, a família informou que o câncer estava sob controle. Na época, em julho de 2022, Rita Lee disse que "a parada é dura, mas tem que ter coragem". Seu filho, Beto Lee, chegou a anunciar aos fãs que a mãe estava curada do câncer. "A cura da minha mãe me emocionou pra caralho. Melhor notícia de todos os tempos. Manteve a cabeça erguida, com vontade de lutar e encarou tudo com seu bom humor habitual.” 
-    Rainha do rock nacional 
-    Considerada a rainha do rock nacional, Rita Lee iniciou sua carreira na década de sessenta como uma das primeiras mulheres a fazer sucesso a nível nacional dentro do rock. Durante aproximadamente 60 anos de carreira, a cantora acumulou mais de 55 milhões de discos vendidos, tornando-se a quarta artista mais bem-sucedida neste sentido no Brasil, atrás de Tonico & Tinoco, Roberto Carlos e Nélson Gonçalves. 
-    <p>
+  Rita Lee Jones nasceu em São Paulo, em 31 de dezembro de 1947. O pai, Charles Jones, era dentista e filho de imigrantes dos EUA. A mãe, a italiana Romilda Padula, era pianista, e incentivou a filha a estudar o instrumento e a cantar com as irmãs. 
+Aos 16 anos, Rita integrou um trio vocal feminino, as Teenage Singers, e fez apresentações amadoras em festas de escolas. O cantor e produtor Tony Campello descobriu as cantoras e as chamou para participar de gravações como backing vocals.
+
+<h1> Os Mutantes <h1>
+
+<p> Em 1964 ela entrou em um grupo de rock chamado Six Sided Rockers que, depois de algumas mudanças de formações e de nomes, deu origem aos Mutantes em 1966. O grupo foi formado inicialmente por Rita Lee, Arnaldo Baptista e Sérgio Dias. 
+ Eles foram fundamentais no tropicalismo, ao unir a psicodelia aos ritmos locais, e se tornaram o grupo brasileiro com maior reconhecimento entre músicos de rock do mundo, idolatrados por Kurt Cobain, David Byrne, Jack White, Beck e outros. <p>
+
+O trio acompanhou Gilberto Gil em “Domingo no parque” no 3º Festival de Música Popular Brasileira da Record, em 1967, e Caetano Veloso em “É proibido proibir” no 3º Festival Internacional da Canção, da Globo em 1968, dois marcos da tropicália.
 
 <h1>MÃE E FILHA DO TIK TOK SAO CANCELADAS POR FAZER RACISMO EM SEUS VIDEOS <h1>
 
@@ -40,12 +44,10 @@
 
 <p> No inquérito que será aberto na Decradi, os investigadores vão apurar se Kérollen e Nancy praticaram crime de racismo ou injúria racial e se também infringiram o Estatuto da Criança e do Adolescente.
     O caso veio à tona após a advogada Fayda Belo, especialista em direito antidiscriminatório, denunciar os vídeos — já apagados dos canais. A advogada destacou que as cenas apresentam o chamado “racismo recreativo”, que ocorre quando alguém usa de “discriminação contra pessoas negras com intuito de diversão”.
-
     “O racismo recreativo incita a discriminação e tira de nós, pessoas negras, o status de pessoa, nos animaliza e nos desumaniza. Seguirei com a denúncia dentro da lei e me coloco à disposição para esclarecimentos”, finaliza.
     O Ministério Público do Estado do Rio de Janeiro (MPRJ) recebeu, até esta quarta-feira (31), 690 comunicações com denúncias contra os vídeos
     Em nota divulgada por sua assessoria jurídica, a dupla disse que "não havia intenção de fazer qualquer referência a temáticas raciais ou a discriminações de minorias" no vídeo
     "Sendo assim, gostariam de se dirigir às pessoas que se sentiram diretamente atingidas, para dizer que não tivemos intenção de as ofender individualmente, nem como gênero, etnia, classe ou categoria a que elas pertençam", diz um trecho do texto.
-    Não há informações sobre o local exato dos registros, mas Kérollen e Nancy usualmente gravam em Niterói e em São Gonçalo, na Região Metropolitana do Rio.
-    <p>
+    Não há informações sobre o local exato dos registros, mas Kérollen e Nancy usualmente gravam em Niterói e em São Gonçalo, na Região Metropolitana do Rio. <p>
 
 </html>

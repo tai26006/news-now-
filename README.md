@@ -14,9 +14,8 @@
     Uma das maiores cantoras e compositoras da história do Brasil, ela morreu nesta segunda (8). Rita foi diagnosticada com câncer de pulmão em 2021 e vinha fazendo tratamentos contra doença.</p>
 
   <img src="ritaa.jpg" alt="" srcset class="">
+
   
-  <body>
-<h1><h1
 >
 </body> 
 <p> Rita ajudou a incorporar a revolução do rock à explosão criativa do tropicalismo, formou a banda brasileira de rock mais cultuada no mundo, os Mutantes, e criou canções na carreira solo com enorme apelo popular sem perder a liberdade e a irreverência.
@@ -33,16 +32,18 @@ O trio acompanhou Gilberto Gil em “Domingo no parque” no 3º Festival de Mú
 
 <h1>MÃE E FILHA DO TIK TOK SAO CANCELADAS POR FAZER RACISMO EM SEUS VIDEOS <h1>
 
+
 <p> As duas somam 17 milhões de seguidores nas redes sociais e postam vídeos de assistencialismo, testes de maquiagem e pegadinhas.<p>
 
 <img src= "gracyyyyy.jpg"  alt="" srcset class=""> 
 
-</body> 
+
 <p> As influenciadoras Kérollen Cunha e Nancy Gonçalves passaram a ser investigadas pela Delegacia de Crimes Raciais e Delitos de Intolerância (Decradi) por vídeos em que aparecem entregando um macaco de pelúcia, uma banana e dinheiro para crianças negras abordadas na rua.
     Nancy e Kérollen se apresentam como “mãe e filha divertindo você”, mas em diversos vídeos afirmam ser meias-irmãs de pais diferentes — em um deles, Nancy conta ter pegado a caçula para criar depois que a mãe das duas avisou que daria Kérollen para adoção.
     Em outra publicação, Nancy afirma ter sido garota de programa “por necessidade” e “para cuidar de Kérollen”. </p>
 
 <h1> ‘Racismo recreativo’ <h1>
+
 
 <p> No inquérito que será aberto na Decradi, os investigadores vão apurar se Kérollen e Nancy praticaram crime de racismo ou injúria racial e se também infringiram o Estatuto da Criança e do Adolescente.
     O caso veio à tona após a advogada Fayda Belo, especialista em direito antidiscriminatório, denunciar os vídeos — já apagados dos canais. A advogada destacou que as cenas apresentam o chamado “racismo recreativo”, que ocorre quando alguém usa de “discriminação contra pessoas negras com intuito de diversão”.

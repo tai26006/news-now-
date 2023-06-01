@@ -14,6 +14,6 @@
   <p> Uma das maiores cantoras e compositoras da história do Brasil, morre nesta segunda (8). Rita foi diagnosticada com câncer de pulmão em 2021 e vinha fazendo tratamentos contra doença. </p>
 
 
-  <img src="ritaa" alt="" srcset class="">
+  <img src="ritaa.jpg" alt="" srcset class="">
 </body> 
 </html>

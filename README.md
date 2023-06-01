@@ -13,6 +13,7 @@
 
 
   <img src="ritaa.jpg" alt="" srcset class="">
+
 </body> 
 <p>Rita Lee, uma das maiores cantoras e compositoras da história da música brasileira, morreu nesta segunda-feira (8), aos 75 anos. Ela foi diagnosticada com câncer de pulmão em 2021 e vinha fazendo tratamentos contra a doença.
 

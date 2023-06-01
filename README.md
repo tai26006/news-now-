@@ -8,10 +8,12 @@
 </head>
 <body>
   <h1>NEWS NOW</h1>  
-  <p>MORRE AOS 75 ANOS CANTORA RITA LEE
+  <p>MORRE AOS 75 ANOS CANTORA RITA LEE <p>
   
   
-  Uma das maiores cantoras e compositoras da história do Brasil, morre nesta segunda (8). Rita foi diagnosticada com câncer de pulmão em 2021 e vinha fazendo tratamentos contra doença. </p>
-  <img src="rita.jpj" alt="" srcset class="responsivo">
+  <p> Uma das maiores cantoras e compositoras da história do Brasil, morre nesta segunda (8). Rita foi diagnosticada com câncer de pulmão em 2021 e vinha fazendo tratamentos contra doença. </p>
+
+
+  <img src="ritaa" alt="" srcset class="">
 </body> 
 </html>
